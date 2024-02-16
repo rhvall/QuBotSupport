@@ -1,10 +1,12 @@
 <p align="center" width="100%">
-<img width="120" alt="QuBot app icon" src="">
+<img width="120" alt="QuBot app icon" src="Screenshots/AppIcon.png">
 </p>
 
 <h1 align="center">QuBot</h1>
 
 # Your local chatbot Mac companion
+
+![](Screenshots/iPhone/02-Question1.PNG)
 
 QuBot is a friendly and helpful local chatbot assistant designed specifically for Mac users.
 
