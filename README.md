@@ -32,8 +32,8 @@ Check the [Privacy Policy](PrivacyPolicy.md) if you would like to check how data
 
 ## Install
 
-Download on the Mac App Store: 
-Download on the iOS App Store:
+Download on the Mac App Store 
+[Download on the iOS App Store](https://apps.apple.com/nz/app/qubot/id6477999764) 
 
 ## Credits
 
